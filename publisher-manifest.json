@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "35a6f417bf6b9e44c7597a28",
+  "owner": "qpbs6vkgf",
+  "repo": "page-ef2716e3533e39d2c6fdc00a",
+  "title": "狗子云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ef2716e3533e39d2c6fdc00a",
+      "a": "狗子云",
+      "b": "2027最新官网",
+      "entity": "狗子云",
+      "brand": "狗子云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e0f59d2deb72175c90a239567c85827b55c29d6041328da8ac830f1a6b6ed5aa",
+      "content": {
+        "primary_entity": "狗子云",
+        "keyword1": "狗子云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端：",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从设备台数与月流量入手，选择狗子云订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 台至 20 台设备同时在线。旗舰版含 IPLC 专线与流媒体解锁，团队版含 VIP 高带宽节点与企业定制路由。月付与年付可选，年付更省。",
+          "AI_FEATURES_INTRO": "按流量与设备台数筛选订阅。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合单人或双设备日常使用，年付仅 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁，年付仅 ¥350。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，含 VIP 节点与企业定制路由，年付仅 ¥850。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "性能均衡",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "选套餐、查适配、配订阅，三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "狗子云提供基础版、旗舰版与团队版三档订阅，覆盖从 100GB 到 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版含 IPLC 专线与流媒体解锁，团队版含 VIP 高带宽节点与定制路由。",
+          "AI_HERO_SUBTITLE": "按流量与设备台数挑订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖月付与年付",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，年付 ¥150；旗舰版每月 300GB 支持 5 台设备，年付 ¥350；团队版每月 1000GB 支持 20 台设备，年付 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按照设备台数与月流量需求，在基础版、旗舰版或团队版中选择一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度与线路类型，确认系统适配要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端自带文档完成节点更新与配置。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "狗子云订阅入口",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "狗子云最低月付多少？",
+          "AI_FAQ_ANSWER_1": "基础版月付 15 元，含每月 100GB 流量与 3 台设备同时在线。年付价格 150 元，按十个月计费，适合长期轻度使用。",
+          "AI_FAQ_QUESTION_2": "多设备同时在线怎么选？",
+          "AI_FAQ_ANSWER_2": "3 台以内选基础版，5 台左右选旗舰版，超过 10 台或需要共享给团队选团队版。团队版支持 20 台设备同时在线，并含专属客户经理服务。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "IPLC 专线针对游戏加速优化，延迟表现更稳定，同时旗舰版提供全节点原生流媒体解锁与 7x24 优先工单支持，适合对实时性要求较高的使用场景。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "三档年付均按十个月费用计算。基础版年付 150 元、旗舰版 350 元、团队版 850 元，相当于每年节省两个月月付金额。",
+          "AI_FAQ_QUESTION_5": "订阅能导入哪些客户端？",
+          "AI_FAQ_ANSWER_5": "常见手机、电脑客户端可依照对应文档导入订阅链接，路由器与电视盒子需先确认支持情况。不同客户端导入步骤有差异，以所选客户端文档为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq09dex4a.com",
+    "host": "xn--9kq09dex4a.com"
+  },
+  "file_hashes": {
+    "index.html": "323873d40574696cc99c0388fffa87972147464d41f0ff3dc255d8aa23642c7f",
+    "sitemap.xml": "ce862130bb84954f609015eb3e0dfec0fbc158952483d616a0bc978ceeaae2ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "331ac4a745b2685611110188baf028272215a5352dc64c5e334ee268cf64dd01",
+    "robots.txt": "5fcde6678c85a140f742833d0e908d893b996a9dec11fa6678e40fc6e7d0c237",
+    "2fa2963f9483cd8d34b481de53b4231a.txt": "845b6b16285f8fb75d03a75ab9a298cc7e6b9c57a5d473cc3bab262282fc4df5"
+  },
+  "revision": "f67e4b4411ab52e19b858cabb1836d49f0dcb356e8c814b60f1cfeead69fa3b4"
+}
